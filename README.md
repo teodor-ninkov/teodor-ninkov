@@ -11,8 +11,8 @@ Background in software development (Flutter, C#) and 4+ years of hands-on busine
 
 ## Projects
 
-- 🔄 **CRM lead automation** - coming soon
-- 📊 **Sales performance dashboard** - coming soon
+- 🔄 **[AI Lead Qualifier](https://github.com/teodor-ninkov/ai-lead-qualifier)** - scores vehicle transport leads Hot / Warm / Cold and drafts follow-up emails with Gemini. Python, Streamlit. [Live demo](https://ai-lead-qualifier-mwbmqp4tzt6aifyytdgv8x.streamlit.app/)
+- 📊 **[Auto Transport Sales Dashboard](https://github.com/teodor-ninkov/sales-dashboard)** - interactive dashboard where every chart runs on a SQL query in the browser, with a SQL explorer. SQL, JavaScript, Chart.js. [Live demo](https://teodor-ninkov.github.io/sales-dashboard/)
 - 🌐 **Web application** - coming soon
 
 ## Contact
