@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Teodor 👋
 
-<!--
-**teodor-ninkov/teodor-ninkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on **automation, integrations and data**. I build working solutions fast with AI-assisted development and turn manual business work into code.
 
-Here are some ideas to get you started:
+Background in software development (Flutter, C#) and 4+ years of hands-on business experience in sales, CRM and digital marketing with US clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+**Working with:** C#, Dart, Flutter, APIs, CRM systems, AI tools (Claude, ChatGPT, Copilot)
+**Currently learning:** Python, SQL, Power BI, n8n
+
+## Projects
+
+- 🔄 **CRM lead automation** - coming soon
+- 📊 **Sales performance dashboard** - coming soon
+- 🌐 **Web application** - coming soon
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/teodor-ninkov) · toxxekx@gmail.com · Sofia, Bulgaria
